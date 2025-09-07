@@ -3,10 +3,11 @@
   "hasUpdate": true,
   "downloadUrl": "https://drive.google.com/drive/folders/1rGLgWNjcEwfUcwH2KzWfKVpcMmZv3onF",
   "changelog": [
-    "✅ Chuyển sang GitHub để đọc update",
-    "✅ Cải thiện hiệu suất và độ ổn định",
-    "✅ Không cần cache, luôn đọc real-time"
+    "✅ Sửa lỗi tìm size XL, XXL, 2XL, 3XL",
+    "✅ Thêm logic canonSize và sizesEqual thông minh",
+    "✅ 2XL tự động tìm XXL, 3XL tìm XXXL",
+    "✅ Clone đúng hàng size tương ứng từ template"
   ],
-  "releaseDate": "2025-09-07",
+  "releaseDate": "2025-01-27",
   "critical": false
 }
