@@ -1,0 +1,12 @@
+{
+  "version": "1.2.0",
+  "hasUpdate": true,
+  "downloadUrl": "https://github.com/lechitrung19360221-bot/Dino-Extension-Manual/releases/latest",
+  "changelog": [
+    "✅ Chuyển sang GitHub để đọc update",
+    "✅ Cải thiện hiệu suất và độ ổn định",
+    "✅ Không cần cache, luôn đọc real-time"
+  ],
+  "releaseDate": "2025-09-07",
+  "critical": false
+}
