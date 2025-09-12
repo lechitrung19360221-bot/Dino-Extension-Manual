@@ -1,13 +1,15 @@
 {
   "version": "1.2.2",
   "hasUpdate": true,
-  "downloadUrl": "https://drive.google.com/drive/folders/1rGLgWNjcEwfUcwH2KzWfKVpcMmZv3onF",
+  "downloadUrl": "https://drive.google.com/drive/folders/1ANeRm_g3bLI-j3JvEmlySj4-9fHfiD8U?usp=sharing",
   "changelog": [
-    "✅ Sửa lỗi tìm size XL, XXL, 2XL, 3XL",
-    "✅ Thêm logic canonSize và sizesEqual thông minh",
-    "✅ 2XL tự động tìm XXL, 3XL tìm XXXL",
-    "✅ Clone đúng hàng size tương ứng từ template"
+    "✅ Clone Excel theo size với format control hoàn hảo",
+    "✅ Báo dung lượng file Excel với cảnh báo màu đỏ khi gần 2MB",
+    "✅ Xóa URL hình ảnh sau khi ghi (giữ nguyên màu sắc)",
+    "✅ Hiển thị version trong UI",
+    "✅ Logic clone và mapping tối ưu",
+    "✅ Cải thiện hiệu suất và độ ổn định"
   ],
-  "releaseDate": "2025-01-27",
+  "releaseDate": "2025-09-12",
   "critical": false
 }
