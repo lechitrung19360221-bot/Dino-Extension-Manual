@@ -1,16 +1,26 @@
 {
   "version": "2.1.0",
   "hasUpdate": true,
-  "downloadUrl": "https://drive.google.com/drive/folders/1rGLgWNjcEwfUcwH2KzWfKVpcMmZv3onF?usp=sharing",
+  "downloadUrl": "https://drive.google.com/drive/folders/1ANeRm_g3bLI-j3JvEmlySj4-9fHfiD8U?usp=sharing",
   "changelog": [
-    "🚀 Xóa sạch datamask từ hàng 5 trở xuống - File Excel nhẹ hơn đáng kể",
-    "🎨 Custom Color Dropdown với dark theme (#2d2d2d background)",
-    "🎨 Typography cải tiến - Labels sans-serif, Input serif",
-    "🐛 Fix 'Error: undefined' và 'Export error: [object Event]'",
-    "⚡ Bật compression và bookSST cho file Excel",
-    "🔧 Cải thiện error handling và stability",
-    "📊 File size display chính xác hơn với ArrayBuffer support"
+    "🎯 MAJOR UPDATE - Version 2.0.0",
+    "✨ Tính năng mới:",
+    "🚀 Upload hình ảnh từ máy tính trực tiếp lên Cloudinary",
+    "🎨 Custom Dropdown đồng bộ cho Gender, Product, Colors, Brand, Trademark",
+    "📝 Brand & Trademark với hệ thống gợi ý thông minh",
+    "🖼️ Quản lý hình ảnh theo màu sắc - URL riêng cho từng màu",
+    "🔄 Tự động reset Title và URLs sau khi ghi Excel",
+    "⚙️ Cải tiến:",
+    "📊 Giới hạn 2000 dòng Excel với cảnh báo rõ ràng",
+    "✅ Validation Cloudinary URL - Kiểm tra URL hợp lệ trước khi upload",
+    "🎯 Category mapping thông minh theo Gender & Product",
+    "🎨 UI Temu Orange theme - Giao diện đồng bộ, hiện đại",
+    "📦 Shipping Template di chuyển lên trên để dễ truy cập",
+    "🐛 Sửa lỗi:",
+    "🔧 Fix logic so sánh version - Chỉ báo update khi version mới hơn",
+    "🔧 Skip upload lại hình đã có trên Cloudinary",
+    "🔧 Cải thiện error handling và thông báo lỗi"
   ],
-  "releaseDate": "2025-09-13",
+  "releaseDate": "2025-01-20",
   "critical": false
 }
