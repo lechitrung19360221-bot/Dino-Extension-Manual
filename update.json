@@ -3,24 +3,8 @@
   "hasUpdate": true,
   "downloadUrl": "https://drive.google.com/drive/folders/1ANeRm_g3bLI-j3JvEmlySj4-9fHfiD8U?usp=sharing",
   "changelog": [
-    "🎯 MAJOR UPDATE - Version 2.0.0",
-    "✨ Tính năng mới:",
-    "🚀 Upload hình ảnh từ máy tính trực tiếp lên Cloudinary",
-    "🎨 Custom Dropdown đồng bộ cho Gender, Product, Colors, Brand, Trademark",
-    "📝 Brand & Trademark với hệ thống gợi ý thông minh",
-    "🖼️ Quản lý hình ảnh theo màu sắc - URL riêng cho từng màu",
-    "🔄 Tự động reset Title và URLs sau khi ghi Excel",
-    "⚙️ Cải tiến:",
-    "📊 Giới hạn 2000 dòng Excel với cảnh báo rõ ràng",
-    "✅ Validation Cloudinary URL - Kiểm tra URL hợp lệ trước khi upload",
-    "🎯 Category mapping thông minh theo Gender & Product",
-    "🎨 UI Temu Orange theme - Giao diện đồng bộ, hiện đại",
-    "📦 Shipping Template di chuyển lên trên để dễ truy cập",
-    "🐛 Sửa lỗi:",
-    "🔧 Fix logic so sánh version - Chỉ báo update khi version mới hơn",
-    "🔧 Skip upload lại hình đã có trên Cloudinary",
-    "🔧 Cải thiện error handling và thông báo lỗi"
+    "UPDATE LÊN BẢN MỚI NHẤT NHÉ"
   ],
-  "releaseDate": "2025-01-20",
+  "releaseDate": "2025-12-11",
   "critical": false
 }
